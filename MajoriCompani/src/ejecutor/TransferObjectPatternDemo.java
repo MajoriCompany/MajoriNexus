@@ -31,5 +31,6 @@ public class TransferObjectPatternDemo {
         student  = studentBusinessObject.getStudent(0);
         System.out.println("Estudiante: [Numero de matricula:"+student.getNoMatricula()+", nombre"+ student.getNombre()+"]");
     }
+    //xzncbzhbcsdc
     
 }
